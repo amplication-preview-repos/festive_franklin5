@@ -1,2 +1,2 @@
-export enum KafkaTopics {}
-export type AllMessageBrokerTopics = KafkaTopics;
+export enum MyMessageBrokerTopics {}
+export type AllMessageBrokerTopics = MyMessageBrokerTopics;
